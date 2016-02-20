@@ -1,0 +1,34 @@
+<html>
+    
+    <head>
+        <title>
+            This is the div calss
+        </title>
+        
+        <link rel="stylesheet" type="text/css" href="style.css">
+        
+    </head>
+    
+    <body>
+       <div class="wrapper">
+          <div class="header">
+              <h1><marquee behavior="" direction="">Header</marquee></h1>
+        
+          </div>
+          
+        <div class="header">
+              <h1>content</h1>
+        
+          </div>
+          
+         <div class="header">
+              <h1>footer</h1>
+        
+          </div>
+        
+           
+           
+       </div>
+        
+    </body>
+</html>
